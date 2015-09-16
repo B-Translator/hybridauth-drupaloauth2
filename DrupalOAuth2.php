@@ -153,6 +153,7 @@ class Hybrid_Providers_DrupalOAuth2 extends Hybrid_Provider_Model_OAuth2
       'email' => 'mail',
       'emailVerified' => 'mail',
       'language' => 'language',
+      'profileURL' => 'profileURL',
     );
 
     // Match the fields of the returned data with
